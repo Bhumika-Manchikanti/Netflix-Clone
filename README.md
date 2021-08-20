@@ -1,1 +1,1 @@
-# Netflix-Clone Developed using Html, CSS , JavaScript
+# Netflix-Clone using Html, CSS , JavaScript
